@@ -1,0 +1,24 @@
+오후 6:32:01      Settings not found, default settings loaded!
+오후 6:32:01      Unzip www folder
+오후 6:32:02      Unzipping complete
+---
+Choosen TimezoneID: Asia/Seoul
+TimeZone: 한국 일광절약시간
+TimeZone in english: 한국 일광절약시간
+Offset to UTC: 9 hours
+Is it DST now? false
+The time now is: 18:32:02
+---
+ 
+AWTRIX by Blueforcer
+starting version 29112
+ 
+Working directory:
+/Users/nerd_/Downloads
+ 
+http://172.30.1.43:7000
+starting...
+log4j:WARN No appenders could be found for logger (org.eclipse.jetty.util.log).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+오후 6:32:05      Connecting with WiFi
